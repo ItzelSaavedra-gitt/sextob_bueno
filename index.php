@@ -26,6 +26,9 @@
 
              Pagina principal
              <br>
+             <br>
+             <br>
+             <br>
              <a href="Reportes.php">Reporte mensual</a>
              <br>
              <a href="dashboard.php">Dashboard</a>
